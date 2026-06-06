@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.ipynb_checkpoints
+data/WA_Fn-UseC_-Telco-Customer-Churn.csv
+.env
